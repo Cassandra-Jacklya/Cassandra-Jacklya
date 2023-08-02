@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Cassandra Jacklya</h1>
 <h3 align="center">A never ending learning programmer who loves music and sports with a burning passion</h3>
 
-Currently a BeSquare Graduate Trainee training in these modules:
+Currently developing an information trading hub called CommonCents together with my teammates. CommonCents is a comprehensive Trading Information Hub that uses numerous features to help novices and anybody interested in trading learn more about trading. Trading News, Trading Guidelines, Trading Simulation, Market Overview, and a Forum are available through this web application and mobile device application. The project focuses on stock indices and the volatility market, with a trading simulation that employs real-time data and virtual currency for option trading. Users can share a single account on both sites, and their net worth is ranked on a leaderboard, adding a gamified aspect to attract and engage users.
 
-<ol>
-  <li>Product design</li>
-  <li>Front-end development</li>
-  <li>Mobile development</li>
-  <li>Back-end development</li>
-  <li>Quality assurance</li>
-</ol>
+Previous collaborator(s): Bentley Teh (Mobile Developer), Muhammad Lubega (Front-End Developer), Vinothinni Kannan (Quality Assurance)
+Current collaborator(s): Muhammad Lubega (Front-End Developer), Vinothinni Kannan (Quality Assurance)
+
+As for myself, I will be working on three aspects, Product Design (UI/UX), Backend Development and Mobile Development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassandra-jacklya&label=Profile%20views&color=0e75b6&style=flat" alt="cassandra-jacklya" /> </p>
 
