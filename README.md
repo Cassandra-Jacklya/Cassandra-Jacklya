@@ -7,7 +7,7 @@
   <li>and a music and sports enthusiast</li>
 </ul>
 
-<h2 align="center">Ongoing Projects:</h2>
+<h2>Ongoing Projects:</h2>
 <ul>
   <li>CommonCents</li>
   <li>ToDue</li>
