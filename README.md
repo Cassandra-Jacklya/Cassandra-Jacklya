@@ -7,12 +7,26 @@
   <li>and a music and sports enthusiast</li>
 </ul>
 
-Currently developing an information trading hub called CommonCents together with my teammates. CommonCents is a comprehensive Trading Information Hub that uses numerous features to help novices and anybody interested in trading learn more about trading. Trading News, Trading Guidelines, Trading Simulation, Market Overview, and a Forum are available through this web application and mobile device application. The project focuses on stock indices and the volatility market, with a trading simulation that employs real-time data and virtual currency for option trading. Users can share a single account on both sites, and their net worth is ranked on a leaderboard, adding a gamified aspect to attract and engage users.
+<h2 align="center">Ongoing Projects:</h2>
+<ul>
+  <li>CommonCents</li>
+  <li>ToDue</li>
+</ul>
+
+<h3>CommonCents</h3>
+CommonCents is a comprehensive Trading Information Hub that uses numerous features to help novices and anybody interested in trading learn more about trading. Trading News, Trading Guidelines, Trading Simulation, Market Overview, and a Forum are available through this web application and mobile device application. The project focuses on stock indices and the volatility market, with a trading simulation that employs real-time data and virtual currency for option trading. Users can share a single account on both sites, and their net worth is ranked on a leaderboard, adding a gamified aspect to attract and engage users.
 
 Previous collaborator(s): Bentley Teh (Mobile Developer), Muhammad Lubega (Front-End Developer), Vinothinni Kannan (Quality Assurance)
 Current collaborator(s): Muhammad Lubega (Front-End Developer), Vinothinni Kannan (Quality Assurance)
 
 As for myself, I will be working on two aspects, Product Design (UI/UX) and Mobile Development.
+
+<h3>ToDue</h3>
+ToDue is a sleek and intuitive task management application designed to streamline your daily life. Seamlessly organize your tasks, deadlines, and priorities all in one place. With a user-friendly interface, you can effortlessly add, edit, and track tasks as they evolve. Whether it's personal to-dos, work projects, or important reminders, ToDue empowers you to stay on top of your commitments.
+
+I will be developing this project from pre-planning to development and then post-development. 
+Aspects covered: Back-End, Mobile, Front-End, UI/UX, DevOps, QA Testing
+<i>Currently in the planning and requirement phase</i>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassandra-jacklya&label=Profile%20views&color=0e75b6&style=flat" alt="cassandra-jacklya" /> </p>
 
