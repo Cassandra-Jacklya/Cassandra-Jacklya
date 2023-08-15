@@ -25,7 +25,8 @@ As for myself, I will be working on two aspects, Product Design (UI/UX) and Mobi
 ToDue is a sleek and intuitive task management application designed to streamline your daily life. Seamlessly organize your tasks, deadlines, and priorities all in one place. With a user-friendly interface, you can effortlessly add, edit, and track tasks as they evolve. Whether it's personal to-dos, work projects, or important reminders, ToDue empowers you to stay on top of your commitments.
 
 I will be developing this project from pre-planning to development and then post-development. 
-Aspects covered: Back-End, Mobile, Front-End, UI/UX, DevOps, QA Testing
+Aspects covered: Back-End, Mobile, Front-End, UI/UX, DevOps, QA Testing  
+
 <i>Currently in the planning and requirement phase</i>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassandra-jacklya&label=Profile%20views&color=0e75b6&style=flat" alt="cassandra-jacklya" /> </p>
