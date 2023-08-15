@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Cassandra Jacklya:</h1>
+<h1 align="center">Hi 👋, I'm Cassandra Jacklya</h1>
 
-<ol>
-  <li>Working as a usability researcher</li>
-  <li>Never ending programmer</li>
-  <li>Music and sports enthusiast</li>
-</ol>
+<h2>About Me:</h2>
+<ul>
+  <li>working as a usability researcher,</li>
+  <li>but also constantly coding, </li>
+  <li>and a music and sports enthusiast</li>
+</ul>
 
 Currently developing an information trading hub called CommonCents together with my teammates. CommonCents is a comprehensive Trading Information Hub that uses numerous features to help novices and anybody interested in trading learn more about trading. Trading News, Trading Guidelines, Trading Simulation, Market Overview, and a Forum are available through this web application and mobile device application. The project focuses on stock indices and the volatility market, with a trading simulation that employs real-time data and virtual currency for option trading. Users can share a single account on both sites, and their net worth is ranked on a leaderboard, adding a gamified aspect to attract and engage users.
 
