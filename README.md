@@ -12,7 +12,7 @@ Currently developing an information trading hub called CommonCents together with
 Previous collaborator(s): Bentley Teh (Mobile Developer), Muhammad Lubega (Front-End Developer), Vinothinni Kannan (Quality Assurance)
 Current collaborator(s): Muhammad Lubega (Front-End Developer), Vinothinni Kannan (Quality Assurance)
 
-As for myself, I will be working on two aspects, Product Design (UI/UX)t and Mobile Development.
+As for myself, I will be working on two aspects, Product Design (UI/UX) and Mobile Development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassandra-jacklya&label=Profile%20views&color=0e75b6&style=flat" alt="cassandra-jacklya" /> </p>
 
