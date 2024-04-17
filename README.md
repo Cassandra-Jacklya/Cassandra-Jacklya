@@ -2,7 +2,7 @@
 
 <h2>About Me:</h2>
 <ul>
-  <li>working as a usability researcher,</li>
+  <li>working as an UX architect,</li>
   <li>but also constantly coding, </li>
   <li>and a music and sports enthusiast</li>
 </ul>
