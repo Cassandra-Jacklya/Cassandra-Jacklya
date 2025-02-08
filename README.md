@@ -2,24 +2,15 @@
 
 <h2>About Me:</h2>
 <ul>
-  <li>working as an UX architect,</li>
-  <li>but also constantly coding, </li>
+  <li>working as a Software Engineer in Odoo Devlopment,</li>
+  <li>but also constantly working on different ways to apply UX in my work, </li>
   <li>and a music and sports enthusiast</li>
 </ul>
 
 <h2>Ongoing Projects:</h2>
 <ul>
-  <li>CommonCents</li>
   <li>ToDue</li>
 </ul>
-
-<h3>CommonCents</h3>
-CommonCents is a comprehensive Trading Information Hub that uses numerous features to help novices and anybody interested in trading learn more about trading. Trading News, Trading Guidelines, Trading Simulation, Market Overview, and a Forum are available through this web application and mobile device application. The project focuses on stock indices and the volatility market, with a trading simulation that employs real-time data and virtual currency for option trading. Users can share a single account on both sites, and their net worth is ranked on a leaderboard, adding a gamified aspect to attract and engage users.
-
-Previous collaborator(s): Bentley Teh (Mobile Developer), Muhammad Lubega (Front-End Developer), Vinothinni Kannan (Quality Assurance)
-Current collaborator(s): Muhammad Lubega (Front-End Developer), Vinothinni Kannan (Quality Assurance)
-
-As for myself, I will be working on two aspects, Product Design (UI/UX) and Mobile Development.
 
 <h3>ToDue</h3>
 ToDue is a sleek and intuitive task management application designed to streamline your daily life. Seamlessly organize your tasks, deadlines, and priorities all in one place. With a user-friendly interface, you can effortlessly add, edit, and track tasks as they evolve. Whether it's personal to-dos, work projects, or important reminders, ToDue empowers you to stay on top of your commitments.
