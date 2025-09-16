@@ -2,22 +2,25 @@
 
 <h2>About Me:</h2>
 <ul>
-  <li>working as a Software Engineer in Odoo Devlopment,</li>
-  <li>but also constantly working on different ways to apply UX in my work, </li>
-  <li>and a music and sports enthusiast</li>
+  <li>Graduated in Computer Systems and Networking and used to work as a Software Engineer</li>
+  <li>currently a swimming coach, dance instructor and a fitness trainer, </li>
+  <li>whilst currently looking for new tech opportunities.</li>
 </ul>
 
 <h2>Ongoing Projects:</h2>
 <ul>
-  <li>ToDue</li>
+  <li>Website Portfolio</li>
 </ul>
 
 <h3>ToDue</h3>
-ToDue is a sleek and intuitive task management application designed to streamline your daily life. Seamlessly organize your tasks, deadlines, and priorities all in one place. With a user-friendly interface, you can effortlessly add, edit, and track tasks as they evolve. Whether it's personal to-dos, work projects, or important reminders, ToDue empowers you to stay on top of your commitments.
+🚀 Currently in development: A full-stack personal website showcasing my UI/UX design process, high-fidelity prototypes, and front-end implementation.  
 
-I will be developing this project from pre-planning to development and then post-development.  
+This project highlights:
+- End-to-end UI/UX case studies (wireframes → visual design → prototypes)
+- Frontend development (HTML, CSS, JavaScript, or React/Next.js)
+- Multi-disciplinary content: Tech portfolio, coaching & fitness, and creative projects
 
-Aspects covered: Back-End, Mobile, Front-End, UI/UX, DevOps, QA Testing  
+Stay tuned for the live version! 
 
 <i>Currently in the planning and requirement phase</i>
 
