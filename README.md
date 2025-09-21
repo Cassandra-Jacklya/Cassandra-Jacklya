@@ -12,7 +12,7 @@
   <li>Website Portfolio</li>
 </ul>
 
-<h3>ToDue</h3>
+<h3>Website Portfolio</h3>
 🚀 Currently in development: A full-stack personal website showcasing my UI/UX design process, high-fidelity prototypes, and front-end implementation.  
 
 This project highlights:
